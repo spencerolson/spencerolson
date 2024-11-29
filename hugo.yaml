@@ -2,3 +2,26 @@ baseURL: https://spencerolson.org/
 languageCode: en-us
 title: Spencer Olson
 theme: ["PaperMod"]
+
+params:
+  hideFooter: true
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: ""
+    subtitle: "Software Engineer @ Instructure, Inc."
+    imageUrl: "https://spencerolson.org/images/solson.png"
+    imageTitle: "A headshot of a smiling man wearing a red wig"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Archive
+        url: "/archive"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/spencerolson"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/spencerolson.org"
+    - name: "elixirforum"
+      url: "https://elixirforum.com/u/spencerolson/activity"
