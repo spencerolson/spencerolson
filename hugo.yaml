@@ -14,9 +14,9 @@ params:
     imageTitle: "A headshot of a smiling man wearing a red wig"
     imageWidth: 200
     imageHeight: 200
-    buttons:
-      - name: Archive
-        url: "/archive"
+    # buttons:
+    #   - name: Archive
+    #     url: "/archive"
 
   socialIcons: # optional
     - name: "github"
@@ -25,3 +25,5 @@ params:
       url: "https://bsky.app/profile/spencerolson.org"
     - name: "elixirforum"
       url: "https://elixirforum.com/u/spencerolson/activity"
+    - name: "email"
+      url: "mailto:spence1818@gmail.com"
