@@ -8,9 +8,9 @@ params:
   disableThemeToggle: true
   profileMode:
     enabled: true
-    title: ""
+    title: "Spencer Olson"
     subtitle: "Software Engineer @ Instructure, Inc."
-    imageUrl: "https://spencerolson.org/images/solson.png"
+    imageUrl: "images/headshot.png"
     imageTitle: "A headshot of a smiling man wearing a red wig"
     imageWidth: 200
     imageHeight: 200
