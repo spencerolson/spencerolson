@@ -4,8 +4,9 @@ title: Spencer Olson
 theme: ["PaperMod"]
 
 params:
-  hideFooter: true
   disableThemeToggle: true
+  hideFooter: true
+  env: production
   profileMode:
     enabled: true
     title: "Spencer Olson"
