@@ -11,7 +11,6 @@ params:
     title: "Spencer Olson"
     subtitle: "Software Engineer @ Instructure, Inc."
     imageUrl: "images/headshot.png"
-    imageTitle: "A headshot of a smiling man wearing a red wig"
     imageWidth: 200
     imageHeight: 200
     # buttons:
