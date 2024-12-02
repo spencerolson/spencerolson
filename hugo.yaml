@@ -1,6 +1,7 @@
 baseURL: https://spencerolson.org/
 languageCode: en-us
 title: Spencer Olson
+titleOnHome: false
 theme: ["PaperMod"]
 
 params:
